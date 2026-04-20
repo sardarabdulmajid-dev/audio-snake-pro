@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🐍 Neon Serpent Flow
 
-# Run and deploy your AI Studio app
+An immersive, AI-enhanced Snake game that combines classic arcade gameplay with a modern music-reactive experience. Developed as part of the **Google AI Seekho 2026** initiative.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
+**[Play the game here!](https://neon-serpent-flow-790332785718.us-west1.run.app/)**
 
-View your app in AI Studio: https://ai.studio/apps/8e14c6d5-ea88-4e24-969b-c08ff0d11490
+## ✨ Features
+* **Neon Cyberpunk Aesthetic:** Fluid canvas animations with glowing effects.
+* **Game Juice:** Screen shakes on impact and particle explosion effects when eating.
+* **Integrated Music Player:** Listen to beats while playing, featuring a real-time visualizer.
+* **Mobile Optimized:** Fully responsive with swipe and touch-button support.
+* **Dynamic Difficulty:** Real-time speed control to challenge your reflexes.
 
-## Run Locally
+## 🛠️ Built With
+* **Google Gemini 1.5 Flash:** For core logic generation and "Vibe Coding."
+* **Google AI Studio:** For rapid prototyping and deployment.
+* **React & HTML5 Canvas:** For high-performance rendering.
+* **Google Cloud Run:** For global hosting and scalability.
 
-**Prerequisites:**  Node.js
+## 👤 Author
+**Sardar Abdul Majid**
+* University Student 
+* [GitHub Profile](https://github.com/sardarabdulmajid-dev)
+* Focus: Embedded Systems & AI Integration
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
